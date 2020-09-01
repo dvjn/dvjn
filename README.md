@@ -4,11 +4,14 @@ Aspiring 🎨 **designer**, 💻 **developer**, 🔭 **researcher**, and 🧠 **
 <br />
 
 ### Welcome to My World 🙌
-- 🏗 I'm currently working on **[`importit`](github.com/divykj/importit)**, and some other medical projects.
-- 🌱 I'm currently learning everything 🙃, also **`rust`**
-- 👯 I'm looking to collaborate on **`ai/ml(in python)`** and **`ui/ux(in react)`**
-- 📫 How to reach me: **`dkj@somaiya.edu`**
-- ⚡ Interests: ⚽ football, 🔵🔴 barça, 👽 messi
+- 👨🏻‍💻 Working on two **Covid** related medical projects 😷
+- 💡 Sharpening my problem solving skills by solving some **[Advent of Code](https://github.com/divykj/AdventOfCode)** 🎄 (P.S. please try this, this is the best place to develop your problem solving skills, can't recommend it enough 🙈)
+- 🌱 Learning **`rust`**, take a look at **[Exercism (Rust Track)](https://github.com/divykj/ExercismRust)** 🙃 (I'm in love with this language 😍)
+- 👯 Looking to collaborate on some live projects in **`ai/ml(in python)`** and **`ui/ux(in react)`** (or just any plain old coding project, I just want to code 🤷)
+- 🏗 Actively developing and maintaining my library, **[importit](https://github.com/divykj/importit)** (check it out, and show some love ☺)
+- 📫 Available at **`dkj@somaiya.edu`**, don't hesitate to reach out, I'm a cool guy 😉 (no seriously, not kidding, ust hit me up 🤙🏻)
+- 🏆 Won SIH 2020 (okay so now I have the bragging rights, but thanks to my amazing dev team, and mentors 🙌🏻)
+- ⚡ Other Interests: ⚽ Football | 🔵🔴 Barça | 👽 Messi
 
 <br />
 
