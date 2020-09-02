@@ -9,7 +9,7 @@ Aspiring 🎨 **designer**, 💻 **developer**, 🔭 **researcher**, and 🧠 **
 - 🌱 Learning **`rust`**, take a look at **[Exercism (Rust Track)](https://github.com/divykj/ExercismRust)** 🙃 (I'm in love with this language 😍)
 - 👯 Looking to collaborate on some live projects in **`ai/ml(in python)`** and **`ui/ux(in react)`** (or just any plain old coding project, I just want to code 🤷)
 - 🏗 Actively developing and maintaining my library, **[importit](https://github.com/divykj/importit)** (check it out, and show some love ☺)
-- 📫 Available at **`dkj@somaiya.edu`**, don't hesitate to reach out, I'm a cool guy 😉 (no seriously, not kidding, ust hit me up 🤙🏻)
+- 📫 Available at **`dkj@somaiya.edu`**, don't hesitate to reach out, I'm a cool guy 😉 (no seriously, not kidding, just hit me up 🤙🏻)
 - 🏆 Won SIH 2020 (okay so now I have the bragging rights, but thanks to my amazing dev team, and mentors 🙌🏻)
 - ⚡ Other Interests: ⚽ Football | 🔵🔴 Barça | 👽 Messi
 
