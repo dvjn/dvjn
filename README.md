@@ -13,7 +13,7 @@ Aspiring 🎨 **designer**, 💻 **developer**, 🔭 **researcher**, and 🧠 **
 - 🏆 Won SIH 2020 (okay so now I have the bragging rights, but thanks to my amazing dev team, and mentors 🙌🏻)
 - ⚡ Other Interests: ⚽ Football | 🔵🔴 Barça | 👽 Messi
 
-Yes, I know, I'm very talkative 🤦
+Yes, I know, I am very talkative, but... It's part of my charm 😎😂
 
 <br />
 
