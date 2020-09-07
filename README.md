@@ -33,51 +33,51 @@ Yes, I know, I am very talkative, but... That's part of my charm 😎😂
 
 ### Tech Stack
 
-<a href="https://pop.system76.com/">
+<a href="https://pop.system76.com/" title="Pop OS">
   <img align="center" alt="Pop OS" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/popos.png" />
 </a>
-<a href="https://neovim.io/">
+<a href="https://neovim.io/" title="Neovim">
   <img align="center" alt="Neovim" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/neovim.png" />
 </a>
-<a href="https://code.visualstudio.com/">
+<a href="https://code.visualstudio.com/" title="Visual Studio Code">
   <img align="center" alt="Visual Studio Code" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/vscode.svg" />
 </a>
-<a href="https://github.com/alacritty/alacritty">
+<a href="https://github.com/alacritty/alacritty" title="Alacritty">
   <img align="center" alt="Alacritty" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/alacritty.png" />
 </a>
-<a href="https://www.rust-lang.org/">
+<a href="https://www.rust-lang.org/" title="Rust">
   <img align="center" alt="Rust" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/rust.svg" />
 </a>
-<a href="https://www.python.org/">
+<a href="https://www.python.org/" title="Python">
   <img align="center" alt="Python" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/python.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
   <img align="center" alt="JavaScript" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/javascript.png" />
 </a>
-<a href="https://www.gnu.org/software/bash/">
+<a href="https://www.gnu.org/software/bash/" title="Bash">
   <img align="center" alt="Bash" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/bash.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
   <img align="center" alt="HTML" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/html.png" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
   <img align="center" alt="CSS" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/css.png" />
 </a>
-<a href="https://reactjs.org/">
+<a href="https://reactjs.org/" title="React">
   <img align="center" alt="React" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/reactjs.svg" />
 </a>
-<a href="https://flask.palletsprojects.com/en/1.1.x/">
+<a href="https://flask.palletsprojects.com/en/1.1.x/" title="Flask">
   <img align="center" alt="Flask" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/flask.svg" />
 </a>
-<a href="https://colab.research.google.com/">
+<a href="https://colab.research.google.com/" title="Google Colab">
   <img align="center" alt="Google Colab" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/colab.png" />
 </a>
-<a href="https://pandas.pydata.org/">
+<a href="https://pandas.pydata.org/" title="Pandas">
   <img align="center" alt="Pandas" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/pandas.png" />
 </a>
-<a href="https://scikit-learn.org/stable/">
+<a href="https://scikit-learn.org/stable/" title="SciKit-Learn">
   <img align="center" alt="SciKit-Learn" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/scikit-learn.png" />
 </a>
-<a href="https://www.tensorflow.org/">
+<a href="https://www.tensorflow.org/" title="Tensorflow">
   <img align="center" alt="Tensorflow" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/tensorflow.svg" />
 </a>
