@@ -37,37 +37,37 @@ Yes, I know, I am very talkative, but... That's part of my charm 😎😂
   <div style="margin: 6px; margin-left: 0px; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #ffffff; flex: 1;">
     <h4>Setup</h4>
     <div style="text-align: right;">
-      <img alt="Pop OS" width="28" height="28" style="margin: 6px" src="icons/popos.png" />
-      <img alt="Neovim" width="28" height="28" style="margin: 6px" src="icons/neovim.png" />
-      <img alt="Visual Studio Code" width="28" height="28" style="margin: 6px" src="icons/vscode.svg" />
-      <img alt="Alacritty" width="28" height="28" style="margin: 6px" src="icons/alacritty.png" />
+      <img alt="Pop OS" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/popos.png" />
+      <img alt="Neovim" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/neovim.png" />
+      <img alt="Visual Studio Code" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/vscode.svg" />
+      <img alt="Alacritty" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/alacritty.png" />
     </div>
   </div>
   <div style="margin: 6px; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #ffffff; flex: 1;">
     <h4>Core Languages</h4>
     <div style="text-align: right;">
-      <img alt="Rust" width="28" height="28" style="margin: 6px" src="icons/rust.svg" />
-      <img alt="Python" width="28" height="28" style="margin: 6px" src="icons/python.svg" />
-      <img alt="JavaScript" width="28" height="28" style="margin: 6px" src="icons/javascript.png" />
-      <img alt="Bash" width="28" height="28" style="margin: 6px" src="icons/bash.svg" />
+      <img alt="Rust" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/rust.svg" />
+      <img alt="Python" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/python.svg" />
+      <img alt="JavaScript" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/javascript.png" />
+      <img alt="Bash" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/bash.svg" />
     </div>
   </div>
   <div style="margin: 6px; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #ffffff; flex: 1;">
     <h4>Web Development</h4>
     <div style="text-align: right;">
-      <img alt="HTML" width="28" height="28" style="margin: 6px" src="icons/html.png" />
-      <img alt="CSS" width="28" height="28" style="margin: 6px" src="icons/css.png" />
-      <img alt="React" width="28" height="28" style="margin: 6px" src="icons/reactjs.svg" />
-      <img alt="Flask" width="28" height="28" style="margin: 6px" src="icons/flask.svg" />
+      <img alt="HTML" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/html.png" />
+      <img alt="CSS" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/css.png" />
+      <img alt="React" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/reactjs.svg" />
+      <img alt="Flask" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/flask.svg" />
     </div>
   </div>
   <div style="margin: 6px; margin-right: 0px; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #ffffff; flex: 1;">
     <h4>Data Science</h4>
     <div style="text-align: right;">
-      <img alt="Google Colab" width="28" height="28" style="margin: 6px" src="icons/colab.png" />
-      <img alt="Pandas" width="28" height="28" style="margin: 6px" src="icons/pandas.png" />
-      <img alt="SciKit-Learn" width="28" height="28" style="margin: 6px" src="icons/scikit-learn.png" />
-      <img alt="Tensorflow" width="28" height="28" style="margin: 6px" src="icons/tensorflow.svg" />
+      <img alt="Google Colab" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/colab.png" />
+      <img alt="Pandas" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/pandas.png" />
+      <img alt="SciKit-Learn" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/scikit-learn.png" />
+      <img alt="Tensorflow" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/tensorflow.svg" />
     </div>
   </div>
 </div>
