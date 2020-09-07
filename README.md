@@ -21,10 +21,10 @@ Yes, I know, I am very talkative, but... That's part of my charm 😎😂
 
 ### Stats
 
-<a>
+<a href="https://github.com/divykj/">
   <img align="center" title="Divy's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=divykj&count_private=true&hide=issues,stars&show_icons=true" />
 </a>
-<a>
+<a href="https://github.com/divykj/">
   <img align="center" title="Top Languages" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divykj&hide=jupyter%20notebook&layout=compact" />
 </a>
 
@@ -33,41 +33,51 @@ Yes, I know, I am very talkative, but... That's part of my charm 😎😂
 
 ### Tech Stack
 
-<div style="display: flex;">
-  <div style="margin: 6px; margin-left: 0px; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #ffffff; flex: 1;">
-    <h4>Setup</h4>
-    <div style="text-align: right;">
-      <img alt="Pop OS" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/popos.png" />
-      <img alt="Neovim" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/neovim.png" />
-      <img alt="Visual Studio Code" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/vscode.svg" />
-      <img alt="Alacritty" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/alacritty.png" />
-    </div>
-  </div>
-  <div style="margin: 6px; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #ffffff; flex: 1;">
-    <h4>Core Languages</h4>
-    <div style="text-align: right;">
-      <img alt="Rust" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/rust.svg" />
-      <img alt="Python" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/python.svg" />
-      <img alt="JavaScript" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/javascript.png" />
-      <img alt="Bash" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/bash.svg" />
-    </div>
-  </div>
-  <div style="margin: 6px; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #ffffff; flex: 1;">
-    <h4>Web Development</h4>
-    <div style="text-align: right;">
-      <img alt="HTML" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/html.png" />
-      <img alt="CSS" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/css.png" />
-      <img alt="React" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/reactjs.svg" />
-      <img alt="Flask" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/flask.svg" />
-    </div>
-  </div>
-  <div style="margin: 6px; margin-right: 0px; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #ffffff; flex: 1;">
-    <h4>Data Science</h4>
-    <div style="text-align: right;">
-      <img alt="Google Colab" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/colab.png" />
-      <img alt="Pandas" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/pandas.png" />
-      <img alt="SciKit-Learn" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/scikit-learn.png" />
-      <img alt="Tensorflow" width="28" height="28" style="margin: 6px" src="https://github.com/divykj/divykj/raw/master/icons/tensorflow.svg" />
-    </div>
-  </div>
-</div>
+<a href="https://pop.system76.com/">
+  <img align="center" alt="Pop OS" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/popos.png" />
+</a>
+<a href="https://neovim.io/">
+  <img align="center" alt="Neovim" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/neovim.png" />
+</a>
+<a href="https://code.visualstudio.com/">
+  <img align="center" alt="Visual Studio Code" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/vscode.svg" />
+</a>
+<a href="https://github.com/alacritty/alacritty">
+  <img align="center" alt="Alacritty" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/alacritty.png" />
+</a>
+<a href="https://www.rust-lang.org/">
+  <img align="center" alt="Rust" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/rust.svg" />
+</a>
+<a href="https://www.python.org/">
+  <img align="center" alt="Python" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/python.svg" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img align="center" alt="JavaScript" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/javascript.png" />
+</a>
+<a href="https://www.gnu.org/software/bash/">
+  <img align="center" alt="Bash" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/bash.svg" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img align="center" alt="HTML" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/html.png" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img align="center" alt="CSS" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/css.png" />
+</a>
+<a href="https://reactjs.org/">
+  <img align="center" alt="React" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/reactjs.svg" />
+</a>
+<a href="https://flask.palletsprojects.com/en/1.1.x/">
+  <img align="center" alt="Flask" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/flask.svg" />
+</a>
+<a href="https://colab.research.google.com/">
+  <img align="center" alt="Google Colab" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/colab.png" />
+</a>
+<a href="https://pandas.pydata.org/">
+  <img align="center" alt="Pandas" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/pandas.png" />
+</a>
+<a href="https://scikit-learn.org/stable/">
+  <img align="center" alt="SciKit-Learn" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/scikit-learn.png" />
+</a>
+<a href="https://www.tensorflow.org/">
+  <img align="center" alt="Tensorflow" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/tensorflow.svg" />
+</a>
