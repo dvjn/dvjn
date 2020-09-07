@@ -19,21 +19,55 @@ Yes, I know, I am very talkative, but... That's part of my charm 😎😂
 
 <br />
 
+### Stats
+
+<a>
+  <img align="center" title="Divy's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=divykj&count_private=true&hide=issues,stars&show_icons=true" />
+</a>
+<a>
+  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divykj&hide=jupyter%20notebook&layout=compact" />
+</a>
+
+<br />
+<br />
+
 ### Tech Stack
 
-<img align="left" alt="Ubuntu" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/ubuntu.png" />
-<img align="left" alt="Neovim" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/neovim.png" />
-<img align="left" alt="Alacritty" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/alacritty.png" />
-<img align="left" alt="Brave" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/brave.png" />
-<img align="left" alt="HTML" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/html.png" />
-<img align="left" alt="CSS" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/css.png" />
-<img align="left" alt="JS" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/javascript.png" />
-<img align="left" alt="NodeJS" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/nodejs.png" />
-<img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/react.png" />
-<img align="left" alt="Typescript" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/typescript.png" />
-<img align="left" alt="Python" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/python.png" />
-<img align="left" alt="Pandas" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/pandas.png" />
-<img align="left" alt="MatplotLib" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/matplotlib.png" />
-<img align="left" alt="SciKit-Learn" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/scikit-learn.png" />
-<img align="left" alt="Tensorflow" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/tensorflow.png" />
-<img align="left" alt="Flask" width="24px" src="https://raw.githubusercontent.com/divykj/divykj/master/icons/flask.png" />
+<div style="display: flex;">
+  <div style="margin: 6px; margin-left: 0px; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #ffffff; flex: 1;">
+    <h4>Setup</h4>
+    <div style="text-align: right;">
+      <img alt="Pop OS" width="28" height="28" style="margin: 6px" src="icons/popos.png" />
+      <img alt="Neovim" width="28" height="28" style="margin: 6px" src="icons/neovim.png" />
+      <img alt="Visual Studio Code" width="28" height="28" style="margin: 6px" src="icons/vscode.svg" />
+      <img alt="Alacritty" width="28" height="28" style="margin: 6px" src="icons/alacritty.png" />
+    </div>
+  </div>
+  <div style="margin: 6px; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #ffffff; flex: 1;">
+    <h4>Core Languages</h4>
+    <div style="text-align: right;">
+      <img alt="Rust" width="28" height="28" style="margin: 6px" src="icons/rust.svg" />
+      <img alt="Python" width="28" height="28" style="margin: 6px" src="icons/python.svg" />
+      <img alt="JavaScript" width="28" height="28" style="margin: 6px" src="icons/javascript.png" />
+      <img alt="Bash" width="28" height="28" style="margin: 6px" src="icons/bash.svg" />
+    </div>
+  </div>
+  <div style="margin: 6px; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #ffffff; flex: 1;">
+    <h4>Web Development</h4>
+    <div style="text-align: right;">
+      <img alt="HTML" width="28" height="28" style="margin: 6px" src="icons/html.png" />
+      <img alt="CSS" width="28" height="28" style="margin: 6px" src="icons/css.png" />
+      <img alt="React" width="28" height="28" style="margin: 6px" src="icons/reactjs.svg" />
+      <img alt="Flask" width="28" height="28" style="margin: 6px" src="icons/flask.svg" />
+    </div>
+  </div>
+  <div style="margin: 6px; margin-right: 0px; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #ffffff; flex: 1;">
+    <h4>Data Science</h4>
+    <div style="text-align: right;">
+      <img alt="Google Colab" width="28" height="28" style="margin: 6px" src="icons/colab.png" />
+      <img alt="Pandas" width="28" height="28" style="margin: 6px" src="icons/pandas.png" />
+      <img alt="SciKit-Learn" width="28" height="28" style="margin: 6px" src="icons/scikit-learn.png" />
+      <img alt="Tensorflow" width="28" height="28" style="margin: 6px" src="icons/tensorflow.svg" />
+    </div>
+  </div>
+</div>
