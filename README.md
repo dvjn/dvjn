@@ -29,6 +29,9 @@ Yes, I know, I am very talkative, but... That's part of my charm 😎😂
 ### Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <br />
