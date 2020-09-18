@@ -1,6 +1,6 @@
 ## Hey there, this is Divy 👋🏻
 
-Aspiring 🎨 **designer**, 💻 **developer**, 🔭 **researcher**, and 🧠 **learner**
+Aspiring **`🎨 designer`**, **`💻 developer`**, **`🔭 researcher`**, and **`🧠 learner`**
 
 <br />
 
