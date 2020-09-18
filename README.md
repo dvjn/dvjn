@@ -13,7 +13,7 @@ Aspiring 🎨 **designer**, 💻 **developer**, 🔭 **researcher**, and 🧠 **
 - 🏗 Actively developing and maintaining my library, **[`importit`](https://github.com/divykj/importit)** (check it out, and show some love ☺)
 - 🏆 Winner of **`Smart India Hackathon 2020 (PSCode: MS450)`**, which is the **`World's Biggest Open Innovation Model`** (thanks to my amazing team `int elligent;`, and the mentors 🙌🏻)
 - 📫 Available at **[`dkj@somaiya.edu`](mailto:dkj@somaiya.edu)**, don't hesitate to reach out, I'm a cool guy 😉 (no seriously, not kidding, just hit me up 🤙🏻)
-- ⚡ Other Interests: **`⚽ Football | 🔵🔴 Barça | 👽 Messi`**
+- ⚡ Other Interests: **`⚽ Football`** | **`🔭 (Astro and Quantum) Physics`**
 
 Yes, I know, I am very talkative, but... That's part of my charm 😎😂
 
@@ -29,13 +29,15 @@ Yes, I know, I am very talkative, but... That's part of my charm 😎😂
 ### Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   4 hrs 26 mins   ████████████░░░░░░░░░░░░░   48.61 % 
-Rust         3 hrs 13 mins   ████████▓░░░░░░░░░░░░░░░░   35.30 % 
-YAML         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Makefile     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+JavaScript   4 hrs 26 mins   ████████████░░░░░░░░░░░░░   48.61 %
+Rust         3 hrs 13 mins   ████████▓░░░░░░░░░░░░░░░░   35.30 %
+YAML         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Makefile     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br />
