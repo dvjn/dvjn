@@ -19,27 +19,6 @@ Yes, I know, I am very talkative, but... That's part of my charm 😎😂
 
 <br />
 
-### Stats
-
-<a href="https://github.com/divykj/"><img align="center" title="Divy's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=divykj&count_private=true&hide=issues,stars&show_icons=true" /></a>
-<a href="https://github.com/divykj/"><img align="center" title="Top Languages" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divykj&hide=jupyter%20notebook&layout=compact" /></a>
-
-<br />
-
-### Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   9 hrs 41 mins   ████████████▒░░░░░░░░░░░░   49.10 % 
-Rust         3 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.68 % 
-YAML         1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Other        1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Bash         1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-```
-<!--END_SECTION:waka-->
-
-<br />
-
 ### Tech Stack
 
 <a href="https://pop.system76.com/" title="Pop OS"><img align="center" alt="Pop OS" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/popos.png" /></a>
@@ -58,3 +37,24 @@ Bash         1 hr 9 mins     █▒░░░░░░░░░░░░░░░
 <a href="https://pandas.pydata.org/" title="Pandas"><img align="center" alt="Pandas" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/pandas.png" /></a>
 <a href="https://scikit-learn.org/stable/" title="SciKit-Learn"><img align="center" alt="SciKit-Learn" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/scikit-learn.png" /></a>
 <a href="https://www.tensorflow.org/" title="Tensorflow"><img align="center" alt="Tensorflow" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/tensorflow.svg" /></a>
+
+<br />
+
+### Stats
+
+<a href="https://github.com/divykj/"><img align="center" title="Divy's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=divykj&count_private=true&hide=issues,stars&show_icons=true" /></a>
+<a href="https://github.com/divykj/"><img align="center" title="Top Languages" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divykj&hide=jupyter%20notebook&layout=compact" /></a>
+
+<details>
+  <summary><b>Weekly Development Breakdown</b></summary>
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   9 hrs 41 mins   ████████████▒░░░░░░░░░░░░   49.10 % 
+Rust         3 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.68 % 
+YAML         1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Other        1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Bash         1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+```
+<!--END_SECTION:waka-->
+</details>
