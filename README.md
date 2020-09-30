@@ -45,7 +45,7 @@ Yes, I know, I am very talkative, but... That's part of my charm 😎😂
 
 <details>
   <summary><b>Overall Github Stats</b></summary>
-  <a href="https://github.com/divykj/"><img align="center" title="Divy's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=divykj&count_private=true&hide=issues,stars&show_icons=true" /></a>
+  <a href="https://github.com/divykj/"><img align="center" title="Divy's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=divykj&count_private=true&hide=issues&show_icons=true" /></a>
   <a href="https://github.com/divykj/"><img align="center" title="Top Languages" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divykj&hide=jupyter%20notebook&layout=compact" /></a>
 </details>
 
