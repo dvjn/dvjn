@@ -19,7 +19,7 @@ Yes, I know, I am very talkative, but... That's part of my charm 😎😂
 
 ---
 
-### Tech Stack
+### Tech Stack 💻
 
 <a href="https://manjaro.org/" title="Manjaro"><img align="center" alt="Manjaro" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/manjaro.svg" /></a>
 <a href="https://neovim.io/" title="Neovim"><img align="center" alt="Neovim" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/neovim.png" /></a>
@@ -40,8 +40,7 @@ Yes, I know, I am very talkative, but... That's part of my charm 😎😂
 
 ---
 
-### Stats
-
+### Stats 📊
 
 <details>
   <summary><b>Overall Github Stats</b></summary>
