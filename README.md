@@ -21,7 +21,7 @@ Yes, I know, I am very talkative, but... That's part of my charm 😎😂
 
 ### Tech Stack
 
-<a href="https://pop.system76.com/" title="Pop OS"><img align="center" alt="Pop OS" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/popos.png" /></a>
+<a href="https://manjaro.org/" title="Manjaro"><img align="center" alt="Manjaro" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/manjaro.svg" /></a>
 <a href="https://neovim.io/" title="Neovim"><img align="center" alt="Neovim" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/neovim.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img align="center" alt="Visual Studio Code" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/vscode.svg" /></a>
 <a href="https://github.com/alacritty/alacritty" title="Alacritty"><img align="center" alt="Alacritty" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/alacritty.png" /></a>
