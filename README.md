@@ -9,7 +9,7 @@ Aspiring **`🎨 designer`**, **`💻 developer`**, **`🔭 researcher`**, and *
 - 👨🏻‍💻 Working on two live **`Covid`** related medical projects 😷 (**[`Teledermatology`](https://github.com/vinayakm4261/Teledermatology)** and **`Early Covid Detection`**)
 - 💡 Sharpening my problem solving skills by solving some **[`Advent of Code`](https://github.com/divykj/AdventOfCode)** 🎄 (P.S. please try this, this is the best place to develop your problem solving skills, can't recommend it enough 🙈)
 - 🌱 Learning **`rust`**, take a look at **[`Exercism (Rust Track)`](https://github.com/divykj/ExercismRust)** and **[`dvOS`](https://github.com/divykj/dvOS)** 🙃 (Still a long way to go, but I'm in love with this language already 😍)
-- 👯 Looking to collaborate on some live projects in **`ai/ml(in python)`** and **`ui/ux(in react)`** (or just any plain old coding project, I just want to code 🤷🏻‍♀️)
+- 👯 Looking to collaborate on some live projects in **`ai/ml(in python)`** and **`ui/ux(in js and css)`** (or just any plain old coding project, I just want to code 🤷🏻‍♀️)
 - 🏗 Actively developing and maintaining my library, **[`importit`](https://github.com/divykj/importit)** (check it out, and show some love ☺)
 - 🏆 Winner of **`Smart India Hackathon 2020 (PSCode: MS450)`**, which is the **`World's Biggest Open Innovation Model`** (thanks to my amazing team `int elligent;`, and the mentors 🙌🏻)
 - 📫 Available at **[`dkj@somaiya.edu`](mailto:dkj@somaiya.edu)**, don't hesitate to reach out, I'm a cool guy 😉 (no seriously, not kidding, just hit me up 🤙🏻)
