@@ -6,11 +6,10 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  update-charts:
+    name: Update stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: divykj/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: "📊"
