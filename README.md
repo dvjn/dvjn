@@ -1,21 +1,22 @@
 ## Hey there, this is Divy 👋🏻
 
-Aspiring **`🎨 designer`**, **`💻 developer`**, **`🔭 researcher`**, and **`🧠 learner`**
+**`🎨 Design`** | **`💻 Develop`** | **`🔭 Research`** | **`🧠 Learn`**
 
 ---
 
-### Welcome to My World 🙌🏻
+### Welcome to My Github 🙌🏻
 
-- 👨🏻‍💻 Working on two live **`Covid`** related medical projects 😷 (**[`Teledermatology`](https://github.com/vinayakm4261/Teledermatology)** and **`Early Covid Detection`**)
-- 💡 Sharpening my problem solving skills by solving some **[`Advent of Code`](https://github.com/divykj/AdventOfCode)** 🎄 (P.S. please try this, this is the best place to develop your problem solving skills, can't recommend it enough 🙈)
+- 👨🏻‍💻 Currently working on Major Project for my Bachelor of Engineering in Computers, which is **[`Travel Buddy`](https://github.com/TheTravelBuddy)**.
+- 🏗 Actively developing and maintaining my python library, **[`importit`](https://github.com/divykj/importit)**. (check it out, and show some love ☺)
 - 🌱 Learning **`rust`**, take a look at **[`Exercism (Rust Track)`](https://github.com/divykj/ExercismRust)** and **[`dvOS`](https://github.com/divykj/dvOS)** 🙃 (Still a long way to go, but I'm in love with this language already 😍)
-- 👯 Looking to collaborate on some live projects in **`ai/ml(in python)`** and **`ui/ux(in js and css)`** (or just any plain old coding project, I just want to code 🤷🏻‍♀️)
-- 🏗 Actively developing and maintaining my library, **[`importit`](https://github.com/divykj/importit)** (check it out, and show some love ☺)
-- 🏆 Winner of **`Smart India Hackathon 2020 (PSCode: MS450)`**, which is the **`World's Biggest Open Innovation Model`** (thanks to my amazing team `int elligent;`, and the mentors 🙌🏻)
-- 📫 Available at **[`dkj@somaiya.edu`](mailto:dkj@somaiya.edu)**, don't hesitate to reach out, I'm a cool guy 😉 (no seriously, not kidding, just hit me up 🤙🏻)
+- 💡 Sharpening my problem solving and mathematical skills by solving some **[`Project Euler in Rust`](https://github.com/divykj/ProjectEulerRust)**.
+- 🙌🏻 Trying to actively contribute to open source repositories, like **[`thefuck`](https://github.com/nvbn/thefuck)**. (**[`scorphus`](https://github.com/scorphus)** helped a lot in this)
+- 👯 Looking to collaborate on some live projects in **`AI/ML (Python)`** and **`UI/UX (JS and CSS)`** (or any other interesting open source projects 🤷🏻‍♀️)
+- 👬 My partners in crime (not actually crime, I mean code): **[`scorphus`](https://github.com/scorphus)** and **[`team int elligent;`](https://github.com/team-int-elligent)**
+- 📫 Available at **[`divykjain@gmail.com`](mailto:dkj@somaiya.edu)**, don't hesitate to reach out (always here to help 😉)
 - ⚡ Other Interests: **`⚽ Football`** | **`🔭 (Astro and Quantum) Physics`**
 
-Yes, I know, I am very talkative, but... That's part of my charm 😎😂
+Yes, I know, that's a very long description, but... That's part of my charm 😎😂
 
 ---
 
