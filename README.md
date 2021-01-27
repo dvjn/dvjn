@@ -22,22 +22,37 @@ Yes, I know, that's a very long description, but... That's part of my charm 😎
 
 ### Tech Stack 💻
 
-<a href="https://manjaro.org/" title="Manjaro"><img align="center" alt="Manjaro" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/manjaro.svg" /></a>
-<a href="https://neovim.io/" title="Neovim"><img align="center" alt="Neovim" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/neovim.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img align="center" alt="Visual Studio Code" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/vscode.svg" /></a>
-<a href="https://github.com/alacritty/alacritty" title="Alacritty"><img align="center" alt="Alacritty" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/alacritty.png" /></a>
-<a href="https://www.rust-lang.org/" title="Rust"><img align="center" alt="Rust" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/rust.svg" /></a>
-<a href="https://www.python.org/" title="Python"><img align="center" alt="Python" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/python.svg" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img align="center" alt="JavaScript" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/javascript.png" /></a>
-<a href="https://www.gnu.org/software/bash/" title="Bash"><img align="center" alt="Bash" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/bash.svg" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img align="center" alt="HTML" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/html.png" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img align="center" alt="CSS" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/css.png" /></a>
-<a href="https://reactjs.org/" title="React"><img align="center" alt="React" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/reactjs.svg" /></a>
-<a href="https://flask.palletsprojects.com/en/1.1.x/" title="Flask"><img align="center" alt="Flask" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/flask.svg" /></a>
-<a href="https://colab.research.google.com/" title="Google Colab"><img align="center" alt="Google Colab" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/colab.png" /></a>
-<a href="https://pandas.pydata.org/" title="Pandas"><img align="center" alt="Pandas" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/pandas.png" /></a>
-<a href="https://scikit-learn.org/stable/" title="SciKit-Learn"><img align="center" alt="SciKit-Learn" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/scikit-learn.png" /></a>
-<a href="https://www.tensorflow.org/" title="Tensorflow"><img align="center" alt="Tensorflow" width="28" height="28" src="https://github.com/divykj/divykj/raw/master/icons/tensorflow.svg" /></a>
+#### Current Setup
+
+<b>
+<a href="https://manjaro.org/" title="Manjaro"><img align="center" alt="Manjaro" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/manjaro.svg" /><code>Manjaro Linux</code></a>
+&nbsp;
+<a href="https://www.gnome.org/" title="Gnome"><img align="center" alt="Gnome" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/gnome.svg" /><code>Gnome Desktop</code></a>
+&nbsp;
+<a href="https://github.com/alacritty/alacritty" title="Alacritty"><img align="center" alt="Alacritty" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/alacritty.png" /><code>Alacritty</code></a>
+&nbsp;
+<a href="https://fishshell.com/" title="Fish Shell"><img align="center" alt="Fish Shell" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/fish.svg" /><code>Fish Shell</code></a>
+&nbsp;
+<a href="https://neovim.io/" title="Neovim"><img align="center" alt="Neovim" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/neovim.png" /><code>Neovim</code></a>
+&nbsp;
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img align="center" alt="Visual Studio Code" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/vscode.svg" /><code>Visual Studio Code</code></a>
+</b>
+
+#### Languages and Frameworks
+
+<b>
+<a href="https://www.python.org/" title="Python"><img align="center" alt="Python" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/python.svg" /><code>Python</code></a>
+&nbsp;
+<a href="https://fastapi.tiangolo.com/" title="FastAPI"><img align="center" alt="FastAPI" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/fastapi.png" /><code>FastAPI</code></a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img align="center" alt="JavaScript" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/javascript.png" /><code>JavaScript</code></a>
+&nbsp;
+<a href="https://reactjs.org/" title="React"><img align="center" alt="React" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/react.svg" /><code>ReactJS/ReactNative</code></a>
+&nbsp;
+<a href="https://www.rust-lang.org/" title="Rust"><img align="center" alt="Rust" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/rust.svg" /><code>Rust</code></a>
+&nbsp;
+<a href="https://www.docker.com/" title="Docker"><img align="center" alt="Docker" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/docker.svg" /><code>Docker</code></a>
+</b>
 
 ---
 
