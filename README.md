@@ -13,7 +13,7 @@
 - 🙌🏻 Trying to actively contribute to open source repositories, like **[`thefuck`](https://github.com/nvbn/thefuck)**. (**[`scorphus`](https://github.com/scorphus)** helped a lot in this)
 - 👯 Looking to collaborate on some live projects in **`AI/ML (Python)`** and **`UI/UX (JS and CSS)`** (or any other interesting open source projects 🤷🏻‍♀️)
 - 👬 My partners in crime (not actually crime, I mean code): **[`scorphus`](https://github.com/scorphus)** and **[`team int elligent;`](https://github.com/team-int-elligent)**
-- 📫 Available at **[`divykjain@gmail.com`](mailto:dkj@somaiya.edu)**, don't hesitate to reach out (always here to help 😉)
+- 📫 Available at **[`divykjain@gmail.com`](mailto:divykjain@gmail.com)**, don't hesitate to reach out (always here to help 😉)
 - ⚡ Other Interests: **`⚽ Football`** | **`🔭 (Astro and Quantum) Physics`**
 
 Yes, I know, that's a very long description, but... That's part of my charm 😎😂
