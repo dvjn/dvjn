@@ -6,9 +6,9 @@
 
 ### Welcome to My Github 🙌🏻
 
-- 👨🏻‍💻 Currently working on Major Project for my Bachelor of Engineering in Computers, which is **[`Travel Buddy`](https://github.com/TheTravelBuddy)**.
-- 🏗 Actively developing and maintaining my python library, **[`importit`](https://github.com/divykj/importit)**. (check it out, and show some love ☺)
-- 🌱 Learning **`rust`**, take a look at **[`Exercism (Rust Track)`](https://github.com/divykj/ExercismRust)** and **[`dvOS`](https://github.com/divykj/dvOS)** 🙃 (Still a long way to go, but I'm in love with this language already 😍)
+- 👨🏻‍💻 Currently working as **`Trainee Product Engineer`** for **[`Seclore`](https://www.seclore.com)**.
+- 🏗 Developing and maintaining my libraries, **[`importit`](https://github.com/divykj/importit)** and **[`wakatime-charts`](https://github.com/divykj/wakatime-charts)**. (check them out, and give some stars ⭐)
+- 🌱 Learning **`rust`**, take a look at **[`rustlings`](https://github.com/divykj/rustlings-solutions)**, **[`Exercism (Rust Track)`](https://github.com/divykj/ExercismRust)**, and **[`dvOS`](https://github.com/divykj/dvOS)** 🙃 (Still a long way to go, but I'm in love with this language already 😍)
 - 💡 Sharpening my problem solving and mathematical skills by solving some **[`Project Euler in Rust`](https://github.com/divykj/ProjectEulerRust)**.
 - 🙌🏻 Trying to actively contribute to open source repositories, like **[`thefuck`](https://github.com/nvbn/thefuck)**. (**[`scorphus`](https://github.com/scorphus)** helped a lot in this)
 - 👯 Looking to collaborate on some live projects in **`AI/ML (Python)`** and **`UI/UX (JS and CSS)`** (or any other interesting open source projects 🤷🏻‍♀️)
