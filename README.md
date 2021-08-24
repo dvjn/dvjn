@@ -29,11 +29,11 @@ Yes, I know, that's a very long description, but... That's part of my charm 😎
 &nbsp;
 <a href="https://www.gnome.org/" title="Gnome"><img align="center" alt="Gnome" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/gnome.svg" /><code>Gnome Desktop</code></a>
 &nbsp;
+<a href="https://www.microsoft.com/en-in/windows/windows-11" title="Windows 11"><img align="center" alt="Windows 11" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/windows.svg" /><code>Windows 11</code></a>
+&nbsp;
 <a href="https://github.com/alacritty/alacritty" title="Alacritty"><img align="center" alt="Alacritty" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/alacritty.png" /><code>Alacritty</code></a>
 &nbsp;
 <a href="https://fishshell.com/" title="Fish Shell"><img align="center" alt="Fish Shell" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/fish.svg" /><code>Fish Shell</code></a>
-&nbsp;
-<a href="https://neovim.io/" title="Neovim"><img align="center" alt="Neovim" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/neovim.png" /><code>Neovim</code></a>
 &nbsp;
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img align="center" alt="Visual Studio Code" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/vscode.svg" /><code>Visual Studio Code</code></a>
 </b>
@@ -41,17 +41,17 @@ Yes, I know, that's a very long description, but... That's part of my charm 😎
 #### Languages and Frameworks
 
 <b>
-<a href="https://www.python.org/" title="Python"><img align="center" alt="Python" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/python.svg" /><code>Python</code></a>
+<a href="https://www.rust-lang.org/" title="Rust"><img align="center" alt="Rust" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/rust.svg" /><code>Rust</code></a>
 &nbsp;
-<a href="https://fastapi.tiangolo.com/" title="FastAPI"><img align="center" alt="FastAPI" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/fastapi.png" /><code>FastAPI</code></a>
+<a href="https://www.python.org/" title="Python"><img align="center" alt="Python" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/python.svg" /><code>Python</code></a>
 &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img align="center" alt="JavaScript" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/javascript.png" /><code>JavaScript</code></a>
 &nbsp;
-<a href="https://reactjs.org/" title="React"><img align="center" alt="React" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/react.svg" /><code>ReactJS/ReactNative</code></a>
-&nbsp;
-<a href="https://www.rust-lang.org/" title="Rust"><img align="center" alt="Rust" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/rust.svg" /><code>Rust</code></a>
-&nbsp;
 <a href="https://www.docker.com/" title="Docker"><img align="center" alt="Docker" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/docker.svg" /><code>Docker</code></a>
+&nbsp;
+<a href="https://fastapi.tiangolo.com/" title="FastAPI"><img align="center" alt="FastAPI" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/fastapi.png" /><code>FastAPI</code></a>
+&nbsp;
+<a href="https://reactjs.org/" title="React"><img align="center" alt="React" width="24" height="24" src="https://github.com/divykj/divykj/raw/master/icons/react.svg" /><code>React</code></a>
 </b>
 
 ---
