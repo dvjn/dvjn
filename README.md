@@ -7,16 +7,14 @@
 ### Welcome to My Github 🙌🏻
 
 - 👨🏻‍💻 Currently working as **`Trainee Product Engineer`** for **[`Seclore`](https://www.seclore.com)**.
-- 🏗 Developing and maintaining my libraries, **[`importit`](https://github.com/divykj/importit)** and **[`wakatime-charts`](https://github.com/divykj/wakatime-charts)**. (check them out, and give some stars ⭐)
+- 🏗 Developing and maintaining my libraries, **[`importit`](https://github.com/divykj/importit)** and **[`wakatime-charts`](https://github.com/divykj/wakatime-charts)**. (check them out, star if you like them ⭐)
 - 🌱 Learning **`rust`**, take a look at **[`rustlings`](https://github.com/divykj/rustlings-solutions)**, **[`Exercism (Rust Track)`](https://github.com/divykj/ExercismRust)**, and **[`dvOS`](https://github.com/divykj/dvOS)** 🙃 (Still a long way to go, but I'm in love with this language already 😍)
 - 💡 Sharpening my problem solving and mathematical skills by solving some **[`Project Euler in Rust`](https://github.com/divykj/ProjectEulerRust)**.
 - 🙌🏻 Trying to actively contribute to open source repositories, like **[`thefuck`](https://github.com/nvbn/thefuck)**. (**[`scorphus`](https://github.com/scorphus)** helped a lot in this)
-- 👯 Looking to collaborate on some live projects in **`AI/ML (Python)`** and **`UI/UX (JS and CSS)`** (or any other interesting open source projects 🤷🏻‍♀️)
+- 👯 Looking to collaborate on open source developer tools and libraries in **`Python`**, **`Rust`**, and **`JS (Node, React)`** (or any other interesting open source projects 🤷🏻‍♀️)
 - 👬 My partners in crime (not actually crime, I mean code): **[`scorphus`](https://github.com/scorphus)** and **[`team int elligent;`](https://github.com/team-int-elligent)**
 - 📫 Available at **[`divykjain@gmail.com`](mailto:divykjain@gmail.com)**, don't hesitate to reach out (always here to help 😉)
-- ⚡ Other Interests: **`⚽ Football`** | **`🔭 (Astro and Quantum) Physics`**
-
-Yes, I know, that's a very long description, but... That's part of my charm 😎😂
+- ⚡ Other Interests: **`⚽ Football`** | **`🔭 Physics`**
 
 ---
 
