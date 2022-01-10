@@ -6,7 +6,7 @@
 
 ### Welcome to My Github 🙌🏻
 
-- 👨🏻‍💻 Currently working as **`Trainee Product Engineer`** for **[`Seclore`](https://www.seclore.com)**.
+- 👨🏻‍💻 Currently working as **`Product Engineer`** for **[`Seclore`](https://www.seclore.com)**.
 - 🏗 Developing and maintaining my libraries, **[`importit`](https://github.com/divykj/importit)** and **[`wakatime-charts`](https://github.com/divykj/wakatime-charts)**. (check them out, star if you like them ⭐)
 - 🌱 Learning **`rust`**, take a look at **[`rustlings`](https://github.com/divykj/rustlings-solutions)**, **[`Exercism (Rust Track)`](https://github.com/divykj/ExercismRust)**, and **[`dvOS`](https://github.com/divykj/dvOS)** 🙃 (Still a long way to go, but I'm in love with this language already 😍)
 - 💡 Sharpening my problem solving and mathematical skills by solving some **[`Project Euler in Rust`](https://github.com/divykj/ProjectEulerRust)**.
