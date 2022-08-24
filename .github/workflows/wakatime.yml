@@ -10,6 +10,6 @@ jobs:
     name: Update stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: divykj/wakatime-charts@master
+      - uses: dvjn/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
