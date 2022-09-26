@@ -58,8 +58,8 @@
 
 <details>
   <summary><b>Overall Github Stats</b></summary>
-  <a href="https://github.com/divykj/"><img align="center" title="My Github Stats" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=divykj&count_private=true&hide=issues&show_icons=true" /></a>
-  <a href="https://github.com/divykj/"><img align="center" title="My Top Languages" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divykj&hide=jupyter%20notebook&layout=compact" /></a>
+  <a href="https://github.com/dvjn/"><img align="center" title="My Github Stats" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=dvjn&count_private=true&hide=issues&show_icons=true" /></a>
+  <a href="https://github.com/dvjn/"><img align="center" title="My Top Languages" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvjn&hide=jupyter%20notebook&layout=compact" /></a>
 </details>
 
 <details>
